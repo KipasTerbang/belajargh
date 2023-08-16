@@ -4,5 +4,5 @@ Progress
 Mempelajari dasar git dengan github
 --
 list progress
--membuat repository
--mengedit readme.md
+- membuat repository
+- mengedit readme.md
